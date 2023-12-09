@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently studying **Diploma in Computer Technology**
 - 🌱 I’m currently learning **Nextjs**
-
+- 🤝 I’m trying to **Develop my skills**
 - 💬 Ask me about **Javascript**
 
 - 📫 How to reach me **istiaktoaha7@gmail.com**
