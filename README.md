@@ -1,6 +1,8 @@
- ![logo](https://img.freepik.com/free-photo/still-life-books-versus-technology_23-2150062913.jpg?t=st=1702140673~exp=1702141273~hmac=e96bfc91d83171c14a409fd08aced4e54ff32ae77e4588c02b78c38a7559c8db)
+<div align='center'>
+   <img src='https://img.freepik.com/free-photo/flat-lay-workstation-with-copy-space-laptop_23-2148430879.jpg?w=826&t=st=1702143279~exp=1702143879~hmac=c0837f0b85fea32ba9378b0746610de4d6b2d2f614057515c7a0b2db7764a2eb' />
+</div>
 <h1 align="center">Hi 👋, I'm Moahammad Toaha Alfeth</h1>
-<h3 align="center">A passionate frontend developer from Bangladeh</h3>
+<h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=toaha77&label=Profile%20views&color=0e75b6&style=flat" alt="toaha77" /> </p>
 
