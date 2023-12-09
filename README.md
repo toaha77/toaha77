@@ -13,7 +13,7 @@
 - 🤝 I’m trying to **Develop my skills**
 - 💬 Ask me about **Javascript**
 
-- 📫 How to reach me **istiaktoaha7@gmail.com**
+- 📫 How to reach me **istiaktoaha07@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
